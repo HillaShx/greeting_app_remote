@@ -1,6 +1,6 @@
 def say_hello(username):
   if auth():
-    print(f"Hello {username}")
+    print(f"Hello {username}, how are you today?")
   else:
     print(f"Hello guest, please log in.")
 
