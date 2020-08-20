@@ -1,14 +1,14 @@
-def say_hello(username):
+def say_hey(username):
   if auth():
-    print(f"Hello {username}")
+    print(f"Hey {username}")
   else:
-    print(f"Hello guest, please log in.")
+    print(f"Hey guest, please log in.")
 
 def main():
   try:
     from my_top_secret_data import auth
     username = input("What is your username?\n")
-    say_hello(username)
+    say_hey(username)
   except:
     print("Missing authentication module")
 
