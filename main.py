@@ -10,7 +10,7 @@ def main():
     username = input("What is your username?\n")
     say_hello(username)
   except:
-    print("Missing authentication module")
+    print("Incorrect username. Try again or sign in.")
 
 if __name__ == "__main__":
   main()
