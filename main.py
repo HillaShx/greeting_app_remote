@@ -7,7 +7,7 @@ def say_hello(username):
 def main():
   try:
     from my_top_secret_data import auth
-    username = input("What is your username?\n")
+    username = input("Insert your username?\n")
     say_hello(username)
   except:
     print("Missing authentication module")
