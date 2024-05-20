@@ -10,7 +10,7 @@ Thank you for participating in Let's Git Started - A hands-on basic Git workshop
 
 [My text-based tutorial](https://medium.com/p/804a7410ba3b/) on Medium, which inspired this workshop.
 
-[A recording of the first workshop](https://youtu.be/M9zanIzR1WU) given on July 9th, 2020, as part of a [She Codes](https://she-codes.org/) Git marathon.
+[A recording of the original workshop](https://youtu.be/CsZe6esv2gI) given on July 9th, 2020, as part of a [She Codes](https://she-codes.org/) Git marathon.
 
 
 ## Cheatsheets
